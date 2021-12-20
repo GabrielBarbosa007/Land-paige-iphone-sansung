@@ -1,4 +1,4 @@
-# Land-paige-iphone-sansung
+# Land-paige-iphone-samsung
 
 Projeto do desafio 100D
 
